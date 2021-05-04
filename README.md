@@ -1,9 +1,9 @@
 # 5003Portfolio
  
 ### Files: 
-*in.txt
-*AgentFramework.py
-*Model.py
+* in.txt
+* AgentFramework.py
+* Model.py
 
 ### Usage
 

@@ -16,3 +16,7 @@ All 3 files need to be downloaded. 'model.py' is then run within Spyder.
 ### Expected output
 
 The model should open in a new window. Using the menu bar at the top of the window to run the model. The model will run it's course and can be terminated by closing the animation window.
+
+###References
+
+Python Tutorial - Master Python Programming For Beginners from Scratch. (n.d.). Tkinter Menu. [online] Available at: https://www.pythontutorial.net/tkinter/tkinter-menu/ [Accessed 5 May 2021].

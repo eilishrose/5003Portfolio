@@ -118,6 +118,7 @@ root.config(menu=menu_bar)
 model_menu = tkinter.Menu(menu_bar)
 menu_bar.add_cascade(label="Model", menu=model_menu)
 model_menu.add_command(label="Run model", command=run) 
+model_menu.add_command(label="Exit", command=root.destroy) #See references
 
 #Terminates the loop 
 def exiting(): 
